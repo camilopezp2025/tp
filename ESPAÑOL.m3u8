@@ -1,4 +1,5 @@
-﻿#EXTINF:-1 ,Avivamiento TV (1080p) [Not 24/7]
+#EXTM3U
+#EXTINF:-1 ,Avivamiento TV (1080p) [Not 24/7]
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 ,Canal 2 Alpavisión Neiva (720p) [Not 24/7]
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
